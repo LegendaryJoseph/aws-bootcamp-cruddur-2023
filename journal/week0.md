@@ -16,6 +16,6 @@ The following is a link of the conceptual diagram:
 
 ![Proof of working AWS CLI](assets/week-0-proof-of-aws-cli.png)
 
-## Budget Alarm
+## Budget Alarm created
 
 ![Image of Budget Alarm](assets/week-0-budget-alarm.png)
