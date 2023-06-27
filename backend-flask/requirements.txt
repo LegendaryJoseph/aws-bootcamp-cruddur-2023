@@ -16,3 +16,5 @@ rollbar
 
 psycopg[binary]
 psycopg[pool]
+
+Flask-AWSCognito
