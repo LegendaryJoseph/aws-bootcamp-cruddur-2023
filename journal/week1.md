@@ -1,13 +1,17 @@
 # Week 1 — App Containerization
 
-I installed the Docker extension which I did not initially have
+## Installed Docker Desktop, pulled nginx image from DockerHub, then run containers
 
-I also installed Docker desktop and started containers
+![Installing Docker Desktop, Pulling image from DockerHub and Running Containers](assets/week-1-docker-containers-running-on-local-machine.png)
 
-I ensured the backend and the frontend are communicating with multiple containers mounted correctly
+## Pushed and tagged an image to DockerHub
 
-I had an issue with the environment variables but I managed to debug them
+![Pushed and tagged nginx image to DockerHub](assets/week-1-push-tag-nginx-image-to-dockerhub.png)
 
-I mastered how to read logs and identify the errors or bugs
+## Evidence for image tag and push
 
-Practiced with Docker commands and even watched further videos on Docker containerization. 
+![Tagged image then pushed it to DockerHub](assets/week-1-tagged-then-pulled-the-nginx-image.png)
+
+## Launched an EC2 instance that has docker installed
+
+![Launched an ec2 instance and installed docker](assets/week-1-eC2instance-dockerinstalled-pullnginx.png)
