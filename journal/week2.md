@@ -2,7 +2,7 @@
 
 ## Integrated Rollbar for Error Logging
 
-![Rollbar](assets/week-2-push-tag-nginx-image-to-dockerhub.PNG)
+![Rollbar](assets/week-2-successful-rollbar-test.PNG)
 
 ## Creating an X-Ray sampling rule using the AWS CLI and observed the traces
 
