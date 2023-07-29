@@ -14,4 +14,4 @@
 
 ## Seeded data into the prod database
 
-![Data (assets/ week-4-seeded-data.PNG)
+![Data Seed](assets/ week-4-seeded-data.PNG)
