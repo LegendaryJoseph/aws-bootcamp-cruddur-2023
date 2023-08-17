@@ -6,5 +6,5 @@
         "Principal":{
           "Service":["ecs-tasks.amazonaws.com"]
       }}]
-  }
+  }  
   
